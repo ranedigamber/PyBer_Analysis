@@ -55,5 +55,5 @@ Based on the above analysis, it is clear that there is a big disparity between t
 
 * Here are our recommendations:
 	1. Reduce the fare per ride for the rural cities. This would encourage more people to use the ridesharing app. Or atleast have a certain period every year where discounted rates apply.
-	2. Keep the percentage of the commissions for the drivers the same as current for the rural cities. This might increase the number of drivers in the rural cities and thereby an increase in the nmuber of rides.
+	2. Keep the percentage of the commissions for the drivers the same as current for the rural cities if the fare rates are dropped. This might increase the number of drivers in the rural cities and thereby an increase in the number of rides.
 	3. Research into the rides by distance for all cities. This might throw some insights on the most prefered distance by city type. An to adjustment of the fare for these distance may yield an increase number of riders and hence increased revenue.   
