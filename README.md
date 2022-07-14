@@ -51,8 +51,9 @@ The multiple-line chart validates the analysis and show that the highest revenue
 
 ## Summary and Recommendations:
 
-	Based on the above analysis, it is clear that there is a big disparity between the data from rural and urban cities. The total revenue generate from urban cities is significantly higher that from rural. However the fare per ride or the fare per driver is much higher in rural cities compared to urban. 
+Based on the above analysis, it is clear that there is a big disparity between the data from rural and urban cities. The total revenue generate from urban cities is significantly higher that from rural. However the fare per ride or the fare per driver is much higher in rural cities compared to urban. 
+
 * Here are our recommendations:
-	1. Reduce the fare per ride for the rural cities. This would encourage more people to use the ridesharing app.
+	1. Reduce the fare per ride for the rural cities. This would encourage more people to use the ridesharing app. Or atleast have a certain period every year where discounted rates apply.
 	2. Keep the percentage of the commissions for the drivers the same as current for the rural cities. This might increase the number of drivers in the rural cities and thereby an increase in the nmuber of rides.
 	3. Research into the rides by distance for all cities. This might throw some insights on the most prefered distance by city type. An to adjustment of the fare for these distance may yield an increase number of riders and hence increased revenue.   
